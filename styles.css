@@ -1,0 +1,15 @@
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  padding: 10px;
+}
+
+.top-layer {
+  position: absolute;
+  z-index: 99;
+  top: 3%;
+  left: 10px;
+}
