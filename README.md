@@ -12,7 +12,7 @@ The bus tracker exercise is a good exemple of how to use asynchronous javascript
  </ul>
  
 ## Roadmap for future improvement
-Make the pacmans compress when hit the edges of the box, and also make them constantly open and close their mouth.
+Add a list of other routes that can be tracked.
  
 ## License
 MIT License
