@@ -2,7 +2,7 @@
 ## Description
 The bus tracker exercise is a good exemple of how to use asynchronous javascript functions to fetch data from web and manipulate it as you wish
 
-<a href="https://matheusalbrs.github.io/PacMenExercise/">demo</a>
+<a href="https://matheusalbrs.github.io/RealTimeBusTracker/">demo</a>
 
 ## How to run
 <ul>
